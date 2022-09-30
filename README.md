@@ -5,4 +5,4 @@ I would however appreciate being attributed if you do end up reposting the code.
 
 The project is still in early develpment and will be updated on a somewhat sporatic basis.
 
-As this is a personal project all choices are my own howver I am always open to public opinion try and remedy any bugs that arise.
+As this is a personal project all choices are my own, however I am always open to public opinion try and remedy any bugs that arise.
