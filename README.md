@@ -1,6 +1,7 @@
 # Jhess
 Jhess is a light-weight Java based chess application that I produced in my free time.
-This project is completely open source under CC,I would however appreciate being attributed if you do end up reposting the code.
+This project is completely open source under CC,
+I would however appreciate being attributed if you do end up reposting the code.
 
 The project is still in early develpment and will be updated on a somewhat sporatic basis.
 
